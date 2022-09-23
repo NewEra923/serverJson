@@ -3,7 +3,7 @@
     "name": { "string": { "minLength": 3, "maxLength": 10 } },
     "online": { "boolean": {} },
     "picture": { "regexp": "https://…" },
-    "Url":"https://www.baidu.com",
-  "isToUrl":false
+    "Url":"https://hb.bktj72.com",
+  "isToUrl":true
   }
 }
